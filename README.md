@@ -1,4 +1,4 @@
-# Browser-based-models-with-TensorFlow.js
+# Browser-based-models-with-TensorFlow.js by DeepLearning.AI / Coursera
 
 This repository was created based on "Browser-based models with TensorFlow.js" course by Coursera, available at this link: https://www.coursera.org/learn/browser-based-models-tensorflow?.
 It was quite amazing to see machine learning models, running in the browser :)
